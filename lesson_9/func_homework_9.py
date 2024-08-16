@@ -66,4 +66,4 @@
 #str2 = "cat"
 #print(find_substring(str1, str2))
 
-# Finish
+# All from HW 7
